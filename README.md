@@ -2,7 +2,7 @@
 
 # 👋 Halo, saya **Mckael123**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Level+Up;Scroll+down+and+play+the+mini+game+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Level+Up;" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Mckael123&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Mckael123?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub followers" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya
+## 🧑‍💻 About Me 😎
 
 ```yaml
 nick: Mckael123
