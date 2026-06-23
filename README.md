@@ -64,7 +64,7 @@ motto: "Small progress every day becomes big results."
 
 ```txt
 ╔══════════════════════════════════════════════╗
-║         ◈ SID CHARACTER PROFILE CARD ◈       ║
+║         ◈ SIDE CHARACTER PROFILE CARD ◈      ║
 ║                                              ║
 ║   Character : William Macbeth                ║
 ║   Anime     : Kekkai Sensen                  ║ 
