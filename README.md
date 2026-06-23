@@ -97,8 +97,10 @@ motto: "Small progress every day becomes big results."
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mckael123-181717?style=for-the-badge&logo=github)](https://github.com/Mckael123)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-rafiddharma95@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mckael123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mckael123)
+[![Instagram](https://img.shields.io/badge/Instagram-rafid.ndk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafid.ndk)
+[![Discord](https://img.shields.io/badge/Discord-rafid__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rafid_)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-rafiddharma95@gmail.com)
 
 </div>
 
