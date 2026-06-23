@@ -14,7 +14,8 @@
 ## 🧑‍💻 Tentang Saya
 
 ```yaml
-name: Mckael123
+nick: Mckael123
+name: Rafid Nagara D
 role: Developer in Progress 🚀
 focus: Building cool things with code
 currently_learning:
@@ -27,7 +28,7 @@ motto: "Small progress every day becomes big results."
 - 🔭 Lagi membangun project-project kecil untuk upgrade skill
 - 🌱 Selalu belajar teknologi baru dan praktik coding yang lebih baik
 - 💬 Suka ngobrol tentang ide project, teknologi, dan kreativitas digital
-- ⚡ Fun fact: README ini punya mini game di bawah 👇
+
 
 ---
 
@@ -161,11 +162,6 @@ Kamu mengambil kopi dulu. Energy naik drastis.
 <div align="center">
 
 ### ✨ Thanks for visiting!
-
-```txt
-Quest complete: You visited my GitHub profile ✅
-Reward: +100 friendship XP 🤝
-```
 
 ⭐ Jangan lupa cek repository saya dan follow kalau suka dengan project saya!
 
