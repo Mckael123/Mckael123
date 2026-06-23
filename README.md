@@ -42,22 +42,7 @@ motto: "Small progress every day becomes big results."
 
 ---
 
-## 🎮 Mini Game: GitHub Adventure
 
-> **Cara main:** pilih jalanmu dengan klik salah satu tombol. Jangan lupa ambil XP sebanyak mungkin!  
-> Game ini berjalan langsung di README memakai link anchor Markdown — simpel, aman, dan interaktif.
-
-<div align="center">
-
-### 🧭 Level 1: Kamu spawn di dunia GitHub...
-
-**Apa yang kamu lakukan pertama kali?**
-
-[![Explore](https://img.shields.io/badge/Explore%20Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](#-path-explore)
-[![Code](https://img.shields.io/badge/Start%20Coding-7CFC00?style=for-the-badge&logo=visualstudiocode&logoColor=black)](#-path-code)
-[![Coffee](https://img.shields.io/badge/Drink%20Coffee-FFB000?style=for-the-badge&logo=buymeacoffee&logoColor=black)](#-path-coffee)
-
-</div>
 
 #
 
