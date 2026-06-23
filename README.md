@@ -78,27 +78,6 @@ motto: "Small progress every day becomes big results."
 
 </div>
 
----
-
-#
-
-### 🏆 Victory Room
-
-<div align="center">
-
-```txt
-╔════════════════════════════════════╗
-║             YOU WIN! 🎉            ║
-║  Terima kasih sudah mampir ke sini ║
-╚════════════════════════════════════╝
-```
-
-
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
