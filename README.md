@@ -59,45 +59,7 @@ motto: "Small progress every day becomes big results."
 
 </div>
 
-### 🔎 Path Explore
-
-Kamu membuka repository dan menemukan ide project baru.
-
-```txt
-+10 XP  | Curiosity meningkat
-+1 ITEM | Map of Ideas 🗺️
-```
-
-➡️ Lanjutkan perjalanan: [Start Coding](#-path-code)
-
-### 💻 Path Code
-
-Kamu mulai menulis kode. Ada bug muncul... tapi kamu tidak menyerah.
-
-```txt
-BOSS FIGHT: Bug Lv. 7 🐞
-[████████░░] Debugging progress: 80%
-```
-
-✅ Kamu berhasil memperbaiki bug!
-
-```txt
-+25 XP  | Problem solving meningkat
-+1 ITEM | Clean Commit ✨
-```
-
-➡️ Claim reward: [Victory Room](#-victory-room)
-
-### ☕ Path Coffee
-
-Kamu mengambil kopi dulu. Energy naik drastis.
-
-```txt
-+15 XP  | Energy restored
-+1 BUFF | Focus Mode selama 2 jam ⚡
-```
-
-➡️ Saatnya produktif: [Start Coding](#-path-code)
+#
 
 ### 🏆 Victory Room
 
