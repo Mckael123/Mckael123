@@ -56,8 +56,7 @@ motto: "Small progress every day becomes big results."
 ╚════════════════════════════════════╝
 ```
 
-[![Follow Me](https://img.shields.io/badge/Follow%20for%20More-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mckael123)
-[![Back to Top](https://img.shields.io/badge/Play%20Again-00D9FF?style=for-the-badge)](#-halo-saya-mckael123)
+
 
 </div>
 
