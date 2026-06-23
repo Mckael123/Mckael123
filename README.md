@@ -24,10 +24,11 @@ currently_learning:
 motto: "Small progress every day becomes big results."
 ```
 
-- 🔭 Lagi membangun project-project kecil untuk upgrade skill
-- 🌱 Selalu belajar teknologi baru dan praktik coding yang lebih baik
+- 🔨 Lagi membangun project-project kecil untuk upgrade skill
+- 💻 Selalu belajar teknologi baru dan praktik coding yang lebih baik
 - 💬 Suka ngobrol tentang ide project, teknologi, dan kreativitas digital
-
+- 😇Sedang belajar berapdatasi dengan perkembangan jaman 🙏
+- 🫣vibe coding 😅
 
 ---
 
@@ -41,7 +42,43 @@ motto: "Small progress every day becomes big results."
 
 ---
 
+## ✨ Anime Corner: William Macbeth
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00111F,45:00D9FF,100:0066FF&height=95&section=header&text=Kekkai%20Sensen%20Neon%20Blue&fontSize=26&fontColor=EAFBFF&animation=twinkling" alt="Anime corner header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=680&lines=%E2%9C%A6+NEON+BLUE+MODE+ACTIVATED+%E2%9C%A6;William+Macbeth+%E2%80%A2+Kekkai+Sensen;Cold+blue+vibes%2C+calm+mind%2C+sharp+code" alt="Neon blue typing text" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%E2%9C%A6-NEON%20BLUE%20ZONE-00D9FF?style=for-the-badge&labelColor=00111F" alt="Neon blue zone" />
+      <br /><br />
+      <img src="assets/william-macbeth.gif" width="420" alt="William Macbeth - Kekkai Sensen GIF" />
+      <br />
+      <sub>💠 William Macbeth • Kekkai Sensen 💠</sub>
+    </td>
+  </tr>
+</table>
+
+```txt
+╔══════════════════════════════════════════════╗
+║         ◈ SID CHARACTER PROFILE CARD ◈       ║
+║                                              ║
+║   Character : William Macbeth                ║
+║   Anime     : Kekkai Sensen                  ║ 
+║   Status    : Stay calm and keep coding ⚡    ║
+╚══════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=footer" alt="Neon divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,45:00D9FF,100:00111F&height=85&section=footer" alt="Anime corner footer" />
+
+</div>
+
+---
 
 #
 
