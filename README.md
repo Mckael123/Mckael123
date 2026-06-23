@@ -55,7 +55,7 @@ motto: "Small progress every day becomes big results."
     <td align="center">
       <img src="https://img.shields.io/badge/%E2%9C%A6-NEON%20BLUE%20ZONE-00D9FF?style=for-the-badge&labelColor=00111F" alt="Neon blue zone" />
       <br /><br />
-      <img src="img/animesher.com_kekkai-sensen-william-macbeth-gif-1802939%20(1).gif" width="420" alt="William Macbeth - Kekkai Sensen GIF" />
+      <img src="img/animesher.com_kekkai-sensen-william-macbeth-gif-1802939%20(1).gif" width="750" alt="William Macbeth - Kekkai Sensen GIF" />
       <br />
       <sub>💠 William Macbeth • Kekkai Sensen 💠</sub>
     </td>
